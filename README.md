@@ -1,16 +1,13 @@
 # sandanter_dev_week_23_flutter
 
-A new Flutter project.
+Santander bank application screen built through Dev Week Santander 23 with API consumption.
 
-## Getting Started
+## Demonstration
 
-This project is a starting point for a Flutter application.
+![tela-santander-app](https://github.com/italoguasti/santander-dev-week-23-flutter/assets/105438510/f7c88a03-1d17-45e2-a34d-fbed98d960ff)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages used
+-  http
+- flutter_svg
+- google_fonts
+- intl
